@@ -1,0 +1,42 @@
+main{
+	background-color: orange;
+}
+
+.leftaside{
+	background-color: blue;
+}
+
+.rightaside{
+	background-color: green;
+}
+
+.title{
+	text-align: center;
+}
+
+.article{
+	text-align: center;
+}
+
+
+.btn-warning{
+	background-color:red;
+}
+
+.navbar{
+	border-radius:0px;
+	border:0px;
+}
+
+
+
+.navbar-inverse {
+   background-color: #0e4807;
+    border-color: #0e4807;
+}
+
+.myBtn{
+	background-color:red;
+}
+
+
